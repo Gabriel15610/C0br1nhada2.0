@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C0BR1NHADA", "C0BR1NHADA\C0BR1NHADA.csproj", "{54B52F6F-1626-4134-9AF6-6510F6E30F60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\Imagens Salvas\logo.ico = ..\..\..\Pictures\Imagens Salvas\logo.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B52F6F-1626-4134-9AF6-6510F6E30F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B52F6F-1626-4134-9AF6-6510F6E30F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B52F6F-1626-4134-9AF6-6510F6E30F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B52F6F-1626-4134-9AF6-6510F6E30F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD39AEE-68D0-4571-879E-CE953E4B3F91}
+	EndGlobalSection
+EndGlobal
