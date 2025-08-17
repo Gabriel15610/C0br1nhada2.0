@@ -2,7 +2,6 @@
 
 C0BR1NHADA é um jogo de cobrinha moderno e divertido desenvolvido por Gabriel (Plasma Studios).  
 Use habilidade, estratégia e power-ups para alcançar a maior pontuação possível!
-PLASMA STUDIOS © 2024 por Gabriel De Oliveira Ramos está licenciado sob a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc/4.0/
 ---
 
 ## Como Jogar
@@ -95,7 +94,7 @@ Plasma Studios é um estúdio independente focado em desenvolver jogos inovadore
 
 ## Licença
 
-Este projeto é aberto para aprendizado e uso pessoal, sem restrições de copyright.
+PLASMA STUDIOS © 2024 por Gabriel De Oliveira Ramos está licenciado sob a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
